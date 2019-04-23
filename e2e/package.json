@@ -20,16 +20,16 @@
     "preset": "react-native"
   },
   "devDependencies": {
-    "@babel/plugin-transform-runtime": "^7.2.0",
     "@babel/core": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.2.0",
     "@babel/runtime": "^7.2.0",
-    "mocha": "^5.2.0",
-    "detox": "^9.0.4",
     "babel-jest": "23.6.0",
     "babel-plugin-module-resolver": "^3.1.1",
+    "detox": "^12.4.1",
     "glob-to-regexp": "^0.4.0",
     "jest": "23.6.0",
     "metro-react-native-babel-preset": "0.45.2",
+    "mocha": "^5.2.0",
     "react-test-renderer": "^16.5.2"
   },
   "detox": {
